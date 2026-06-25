@@ -15,4 +15,4 @@ Installed Cursor and Codex, created a public GitHub repository, cloned it locall
 
 ## Challenges Faced
 
-Ran into a few setup issues during the installation process, but used ChatGPT and the official documentation to troubleshoot and complete the setup.
+Ran into a few setup issues during the installation process, but used ChatGPT to troubleshoot and complete the setup.
