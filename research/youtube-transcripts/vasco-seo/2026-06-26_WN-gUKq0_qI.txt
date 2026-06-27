@@ -1,0 +1,5 @@
+Title: and people keep saying SEO doesn&#39;t work in 2026
+Date: 2026-06-26
+URL: https://youtube.com/watch?v=WN-gUKq0_qI
+
+Transcript unavailable: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'

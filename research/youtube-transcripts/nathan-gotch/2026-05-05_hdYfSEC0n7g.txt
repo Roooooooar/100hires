@@ -1,0 +1,5 @@
+Title: AEO vs SEO: The ONE Big Difference
+Date: 2026-05-05
+URL: https://youtube.com/watch?v=hdYfSEC0n7g
+
+Transcript unavailable: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'

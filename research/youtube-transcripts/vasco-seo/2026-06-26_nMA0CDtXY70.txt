@@ -1,0 +1,5 @@
+Title: My trick to make any brand be mentioned by ChatGPT
+Date: 2026-06-26
+URL: https://youtube.com/watch?v=nMA0CDtXY70
+
+Transcript unavailable: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'

@@ -1,0 +1,5 @@
+Title: How 5,000 SEO Visits Got Her Client’s Local Business Bought by Private Equity
+Date: 2026-06-25
+URL: https://youtube.com/watch?v=Jeh-fidkR48
+
+Transcript unavailable: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
