@@ -1,5 +1,0 @@
-Title: SEO Angel Investing for newbies
-Date: 2026-01-05
-URL: https://youtube.com/watch?v=4dAsEbDkOtM
-
-Transcript unavailable: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'

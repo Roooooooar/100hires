@@ -1,0 +1,251 @@
+Author: Jules Davies
+LinkedIn: https://www.linkedin.com/in/jules-davies/
+Collected: 2026-06-27
+
+---
+
+POST 1:
+
+If I were the Head of SEO at a B2B SaaS and wanted to show up in AI search, here's the exact playbook I'd run:
+
+Step 1: Find where you're invisible
+
+Before building anything, I'd run a full keyword gap analysis.
+
+This is where I'd use Ahrefs Agent A. Give it your domain, your top competitors, your ICP. It surfaces every keyword gap, clusters them by intent, and flags which ones have AI search visibility potential. What used to take a full day of manual Ahrefs work now takes under an hour.
+
+For most companies, this surfaces the same blind spot: comparison keywords, alternative pages, and use-case content.
+
+Step 2: Fix your Google foundation first
+
+AI search pulls from what already exists on the web. If your Google SEO is weak, your AI search visibility will be too.
+
+→ Fix pages stuck on page 2
+→ Reclaim broken backlinks pointing to 404s
+→ Eliminate keyword cannibalization between thin pages
+→ Clean up crawlability, indexation, and redirect chains
+
+Step 3: Build content that targets the full funnel but start BOFU
+
+Most SaaS content programs are top-heavy. Lots of awareness content, very little that catches buyers at the moment they're ready to decide.
+
+I'd flip that. BOFU first (golden keywords highest LTV buyers look for):
+
+→ "[Competitor] alternatives" pages
+→ "Best [category] for [use case]" pages
+→ "X vs Y" comparison pages
+→ Switch-moment content — "migrating from [tool]"
+
+These are the keywords buyers search right before they make a decision.
+
+They're also the prompts they type into ChatGPT and Perplexity. Own these and you're showing on Google and in AI search simultaneously.
+
+Step 4: Get cited in the sources AI actually pulls from
+
+Publishing on your own domain isn't enough anymore. AI tools don't just crawl your blog. They pull from Reddit, YouTube, third-party listicles, G2 reviews, Wikipedia, and comparison sites.
+
+So I'd backtrace sources AI pulls from for prompts my buyers type and build a presence across all of them.
+
+Step 5: Analyze how you’re performing inside LLMs
+
+Monitor your share of voice in LLM responses:
+
+- Mention frequency: How often you appear in AI answers?
+- Prompt quality: Are you showing up for buyer-intent queries or generic ones?
+- Sentiment: Are LLMs positioning you positively, neutrally, or negatively?
+
+If you want to show up in AI search and need help, feel free to book a call with me!
+
+Huge thanks to Nino Mushkudiani from Ahrefs for partnering with me on this post!
+
+---
+
+POST 2:
+
+Every CMO right now is asking one question: how do I show up in ChatGPT, Perplexity, Gemini?
+
+Before we get into that, let me break down how AI search works:
+
+Every prompt you type into AI falls into one of two buckets:
+
+1/ Informational intent
+
+These are prompts like “how do I organize my email inbox?” or “how do I reduce churn?”
+
+For these queries, AI looks for sources that clearly explain the topic and synthesizes an answer.
+
+2/ Commercial intent
+
+Think of prompts like “what’s the best CRM for startups” or “suggest 10 best email marketing platforms for ecommerce”
+
+For these prompts, AI isn't looking for a single source. It's looking for consensus.
+
+It scans:
+
+Reddit threads
+Third-party listicles
+Product review sites
+YouTube videos
+Blog posts
+Product pages
+Wikipedia
+
+Then it asks: "Which brands keep showing up across these sources?"
+
+The brands that appear consistently across multiple trusted sources are the brands AI is most likely to recommend.
+
+So if I wanted more visibility in AI search, I'd focus on 3 things:
+
+✅ Show up on the sources AI cites
+
+That means building visibility on Reddit, YouTube, review sites, industry blogs, comparison articles, and listicles.
+
+✅ Build consensus
+
+Don't rely on a single channel. You want dozens of independent sources talking about you.
+
+✅ Own the right context
+
+It's not enough to be mentioned. You need to be mentioned for the right use case, like “best project management software for agencies”
+
+If you want to know exactly how to show up in AI search, look at the video below!
+
+---
+
+POST 3:
+
+If I had $5K to get my brand cited in ChatGPT, Perplexity, and Gemini, here's how I'd prioritize which channels to invest my AEO budget in:
+
+1/ Identify your core topic clusters first
+
+Before you touch any tool, map the 5 problem spaces your ICP is actively asking AI about.
+
+For example, if you sell project management software, your clusters might be:
+
+- Managing cross-functional teams
+- Client reporting and accountability
+- Scaling operations without hiring
+
+Every prompt you track should map to one of these.
+
+2/ Build multiple prompts for each topic
+
+Buyers phrase the same question differently depending on where they are in their journey. You need to cover that entire surface area.
+
+For "client reporting and accountability," your prompts might be:
+
+- "How do agencies keep clients updated on project status?"
+- "Best project management tools for client-facing teams"
+- "How do I reduce back-and-forth with clients on deliverables?"
+- "Agency project management software vs spreadsheets"
+- "What do clients actually want to see in status updates?"
+
+3/ Group prompts into Monitors inside Promptwatch
+
+Instead of getting lost in hundreds of individual prompts, analyze visibility and citations at the topic level.
+
+To do that, create one Monitor for each topic cluster inside Promptwatch.
+
+For example:
+
+Monitor: Cold Email Software
+
+Contains:
+- "What's the best cold email software for a B2B SaaS?"
+- "Which cold email platform has the highest deliverability?"
+- "What are the best alternatives to Instantly?"
+- "Which cold email software should a startup use?"
+- "How do Smartlead and Instantly compare?"
+
+4/ Reverse-engineer citation data
+
+Look at every source AI systems cite across prompts within a monitor.
+
+For example, after analyzing 30 prompts in a "Cold Email Software" monitor, you might find:
+
+- 35% Reddit
+- 25% Third-Party Listicles
+- 20% YouTube
+- 15% Wikipedia
+- 5% Company blogs
+
+5/ Allocate budget based on citation data
+
+Now that you know the exact sources AI is pulling info from, create content for those channels.
+
+That's how you use citation data to create an AEO strategy to show up in AI search.
+
+---
+
+POST 4:
+
+PR distribution is one of the most effective ways to show up in AI search right now.
+
+But the moment you start scaling it, a new problem shows up:
+
+Tracking everything becomes chaos.
+
+You've placed content across 20 publisher sites. Now someone on your team is manually going through each one:
+
+- Is the article live?
+- Is the backlink present?
+- Is it indexed?
+- Is it dofollow or nofollow?
+- Is the placement still active?
+
+Most teams are jumping between Google tabs → publisher pages → Ahrefs → spreadsheets → Ctrl+F → back to Google again.
+
+For every single placement.
+
+To help fasten this process, Collaborator.pro — PR Distribution Marketplace released a new free Chrome extension.
+
+Instead of manually validating placements one-by-one, it surfaces key SEO and placement signals directly inside your browser while you browse.
+
+So while reviewing publisher pages, you can instantly see:
+
+- backlink status
+- nofollow/sponsored attributes
+- indexation signals
+- placement data
+- publisher availability inside Collaborator
+
+without constantly switching between tools.
+
+Feels like one of those small workflow improvements that saves a ridiculous amount of time.
+
+Check it out yourself, I'll drop the signup link in the comments below!
+
+---
+
+POST 5:
+
+Morgen went from 9,000 to 29,000 organic clicks in 6 months. Signups are up 125% year over year. And they rank 3 in AI search above Notion and Todoist.
+
+Here's the exact AEO + SEO strategy we built for them.
+
+When Jim Hartung joined Morgen as Head of Growth, SEO and YouTube were already showing signs of life. But they lacked a proper scalable strategy.
+
+So the first thing we did was build a 360° organic strategy from the ground up.
+
+Instead of doubling down on one channel, we mapped every surface AI pulls from and created content across all of them.
+
+SEO → We wrote BOFU blogs based on golden keywords their highest LTV, lowest churn customers search for.
+
+On YouTube → We identified the exact comparative and educational content formats that would get cited in AI search. Every video tied back to the same golden keyword list.
+
+Reddit → Morgen has a PLG motion. Their buyers research before they ever sign up. We got into those threads early, had real conversations and added genuine value.
+
+Link building → Jim didn’t have high hopes from this. But when we added high-quality links, pages that had been pulling 5–10 clicks a day jumped to 100+ daily.
+
+A few months later, Morgen team started getting messages from users who found Morgen through ChatGPT and Perplexity.
+
+And in 6 months, they saw insane growth:
+
+🔥 Monthly traffic: 4,463 → 31,490
+🔥 Traffic value: $3K → $25K/month in Google ad spend equivalent
+🔥 4,316 AI citations in 30 days
+🔥 #3 in AI search visibility — ahead of Notion and Todoist
+🔥 Signups up 125% year over year
+
+If you’ve always wondered how to show up in AI search, feel free to book a call with me.
+

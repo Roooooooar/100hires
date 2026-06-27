@@ -1,6 +1,6 @@
 import os
 from googleapiclient.discovery import build
-from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
 
 API_KEY = "AIzaSyCpG_ihsw62jHxpd1KYWJVdV7V0S1h5fR0"
 
@@ -32,8 +32,9 @@ def get_recent_videos(channel_id, max_results=5):
 
 def get_transcript(video_id):
     try:
-        transcript = YouTubeTranscriptApi.get_transcript(video_id)
-        return " ".join([t["text"] for t in transcript])
+        ytt = YouTubeTranscriptApi()
+        transcript = ytt.fetch(video_id)
+        return " ".join([t.text for t in transcript])
     except Exception as e:
         return f"Transcript unavailable: {str(e)}"
 

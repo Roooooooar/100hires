@@ -1,0 +1,237 @@
+Author: Daniel Foley Carter
+LinkedIn: https://www.linkedin.com/in/daniel-foley-assertive/
+Collected: 2026-06-27
+
+---
+
+POST 1:
+
+How we fix clients lost rankings and traffic.
+
+1. We perform a full SEO audit that includes:
+
+➪ Audit of search console data
+➪ Technical SEO audit
+➪ Page indexing audit
+➪ Performance and rendering audit
+➪ Content audit
+➪ Link audit & brand authority review
+➪ User experience & behavioural audit
+
+2. We create segments to analyse where the losses are
+
+➪ Brand vs Non Brand
+➪ Sub Folder performance segment
+➪ Last 3 months YoY click gap analysis
+➪ Pre and post core update loss segment
+
+3. We rule out issues
+
+➪ Spam issues (content, links)
+➪ Technical SEO issues
+➪ Indexing issues
+➪ Content quality, engagement, NLP, value issues
+➪ Link quality & accruement issues
+
+4. We identify where the weaknesses are:
+
+Technical SEO:
+
+➪ Page rendering
+➪ Internal links
+➪ Internal anchors, relevance and consistency
+➪ URL constructs and architecture
+➪ Directive utilisation
+➪ HTTP headers
+➪ On page elements
+
+Content:
+
+➪ Content performance by segment
+➪ Content quality (writing, style, depth, coverage, tov)
+➪ Content age, currentness, accuracy
+➪ NLP performance
+➪ Engagement performance (scroll, click, engagement metrics)
+➪ Information priority
+➪ Readability
+
+Links:
+
+➪ Domains with traffic
+➪ Accruement rate
+➪ Anchor utilisation
+➪ Top page ext RD distribution
+➪ Topical trust flow
+➪ Link network analysis
+
+Indexing:
+
+➪ Review non indexed page reasons
+➪ Clean up non indexed pages & validate
+➪ Maintain healthy indexing
+
+GSC:
+
+➪ Review host, robots.txt accessibility
+➪ Review crawl stats
+➪ Review disavows
+➪ Review all data
+
+5. We create a recovery strategy for clients that can run in parrallel so:
+
+➪ Who works on technical fixes, prioritise highest impact items first
+➪ Who works on content, we work with & train writers & provide content
+➪ Who works on link building / link earning
+➪ What strategic items are dealt with first for fastest impact
+➪ What's the approval & sign off process
+➪ Key KPIs for measurement (query counts, rankings, non brand clicks impr)
+
+6. We then work with clients on:
+
+SEO Implementation:
+
+➪ Get technical fixes done and log annotations
+➪ Get content adjustments underway and on a planned schedule
+➪ Get link earning underway with a proper link strategy
+➪ Get SEO testing underway
+➪ Get indexing cleanups done
+
+SEO Measurement:
+
+➪ Log annotations for each thing fixed
+➪ Track query counts across URLS, URL Groups and Domain
+➪ Track recovery and identify what is and isn't working
+➪ Monitor and track new content production
+➪ Monitor and track links
+
+Engagement & User Behaviour
+
+➪ Track how people engage with content
+➪ Microsoft Clarity + GA4 review
+➪ Regular content assessments
+➪ UX / content adjustment tests
+➪ Maximise positive engagement
+➪ Maximise conversion and ROI
+
+We've seen the devastating impact ranking and traffic losses can have on businesses.
+
+We're specialists in ranking & traffic recovery for all types of loss:
+
+➪ Manual actions & penalties
+➪ Algo related losses
+➪ Spam attacks and hacks
+➪ Indexing issues
+➪ and lots more
+
+---
+
+POST 2:
+
+Google releases its next spam update, what is SUPER interesting is that on the spam update last year, it was SUPER aggressive against content.
+
+I saw a LOT of sites go through a huge correction.
+
+A lot of content was devalued overnight.
+
+This hit a lot of sites and for many, began onward decay.
+
+This hit sites that were pushing out AI content with minimal or no human editing, even if the content wasn't inherently bad, Google literally pulled the plug on it.
+
+Get ready for MORE of this over the next 1-2 weeks.
+
+I feel like Google is really going to put the hammer down on AI content to stop its index being polluted with low effort crap.
+
+Google can utilise SBERT (Sentence-BERT) in its search algorithms to analyze semantic similarity and detect large-scale AI-generated spam.
+
+Instead of relying on word-level analysis, SBERT converts text into whole-sentence embeddings, allowing Google to quickly catch formulaic or repetitive machine-generated content across the web.
+
+So, those AI articles you've been putting out are very likely to become worthless.
+
+What Google is looking for?
+
+High effort content
+
+User engagement that demonstrates content quality
+
+Unique added value (and not reciting what already exists)
+
+Helpful content
+
+Whilst AI isn't always bad or low effort content, equally a lot of it repeats what already exists out there.
+
+---
+
+POST 3:
+
+There is SO much spam out there its unreal, and almost none of it gets challenged.
+
+Why does no one ask for ANY form of proof, a website, some case studies, anything?
+
+It's the SAME thing over and over again:
+
+A hook
+Here's what we do
+Want this?
+Comment
+
+or you get gross, exagerated claims, but, it appeals to people because:
+
+1. People want SHINY new things
+2. People want to make more money for doing less
+3. People want instant results, low effort for maximum gain
+
+But the reality is, if this stuff GENUINELY worked I am sure people would keep it to themselves.
+
+This content is engagement bait for growing socials.
+
+If you see stuff like this, challenge it.
+
+I am OPENLY running a test with AI agents and sharing my journey as it goes, actual PROOF with examples, but a lot of these social posters see others doing it so they copy it.
+
+---
+
+POST 4:
+
+➪ 100 Websites
+➪ All >100k+ a month traffic
+➪ LLM traffic <5% of all traffic
+
+ChatGPT was the most popular LLM for driving website traffic
+Claude, Grok & Gemini sent the least traffic
+Aggregated LLM revenue < 3% of all revenue on average
+
+65% of the 100 websites saw strong LLM citation growth in the last 12 months but less than 10% saw any change in revenue.
+
+There was a slight increase in branded traffic for brands that had growing LLM citations but little else.
+
+Interestingly, LLM traffic was generally the fastest to convert:
+➪ ORGANIC: 177 seconds on average
+➪ PAID: 208 seconds on average
+➪ SOCIAL: 375 seconds on average
+➪ LLMS: 71 seconds on average
+
+LLMS as a traffic or brand awareness source is still important but I feel that there's been so much over-emphasis on the value of it at this stage with respect to attention vs benefit.
+
+Assertive we're keeping a close eye on LLM performance, looking at changes, growth or anything that leads to further developments.
+
+But, for now, LLM traffic is still VERY low level, increased citations has a low level correlation with increased brand search.
+
+I think LLMS are good for brand awareness and pre-purchase consideration so yes you do need to be visible, but, unlike ORGANIC, you don't get that burst curve with increased visibility, it's a lot quieter.
+
+---
+
+POST 5:
+
+June 2026 Spam Update Rolling Out:
+
+I expect this update will tackle:
+
+➱ More self-promotional listicle spam
+➱ General content spam
+➱ AI & programmatic content spam
+➱ Further link devaluation
+
+It will be interesting to see if there's much flex or change in AI Overview coverage and how those will change (addressing self-promotional listicle spam).
+
+Good luck!
+

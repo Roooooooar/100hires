@@ -1,0 +1,119 @@
+Author: Jake Ward
+LinkedIn: https://www.linkedin.com/in/jakezward/
+Collected: 2026-06-27
+
+---
+
+POST 1:
+
+SEO is not a one-person job.
+
+It'll only be a successful marketing channel if the resources are available to execute it properly.
+
+So if you're hiring one person to do:
+
+- Strategy
+- AI search
+- Digital PR
+- Link building
+- Data analysis
+- Topic research
+- Content creation
+- Technical and coding
+
+That's an SEO team.
+
+Not a single hire.
+
+PS. A lot of "SEO isn't working" problems are actually resourcing problems.
+
+---
+
+POST 2:
+
+Planning SEO content for the 2nd half of 2026?
+
+PLEASE do this first:
+
+1. Get all your blog URLs into a spreadsheet.
+
+Use Screaming Frog to crawl your site and export the URLs. Then enrich the sheet with data from:
+- Ahrefs
+- Google Analytics
+- Google Search Console
+
+2. Find the keywords each important URL ranks for.
+
+Use Google Search Console or Ahrefs, then add:
+- Primary keyword
+- Secondary keywords / variations
+- Current rankings for target keywords
+
+3. Audit every post and assign an action:
+- Leave: already reached its potential
+- Merge: cannibalising or too similar to another page
+- Delete: no longer useful or valuable
+- Update: small improvements needed
+- Rewrite: major improvements needed
+
+4. Prioritise updates and rewrites where:
+- target keywords sit in positions 4-20
+- the page has higher conversion or revenue potential
+- there are obvious improvement opportunities
+- the page isn't yet being retrieved by LLMs
+
+---
+
+POST 3:
+
+We're in an AI gold rush and people are complaining?
+
+I can build tools by describing them in English and have a working version in less than an hour.
+
+I can analyse 1,000s of reviews, sales calls, Reddit threads, support tickets in an afternoon and uncover messaging insights that would've taken a research team weeks to find.
+
+I can turn a 60-minute webinar into a blog post, 10 LinkedIn posts, an X thread, 5 video clips, and weeks worth of social content as a one-person team.
+
+I can spin up a team of AI agents to research, write, analyse, and build in parallel while I focus on deciding what to do next.
+
+The cost of building has never been lower.
+The leverage has never been higher.
+
+---
+
+POST 4:
+
+43.8% of AI citations come from "best X" lists.
+
+That's more than blog posts, landing pages, product pages, and homepages combined.
+
+Here's the playbook:
+
+1. Earn third-party recommendations
+2. Get on the lists AI already trusts
+3. Aim for the top, not just inclusion
+4. Create your own list pages
+5. Keep these pages fresh
+6. Don't let domain authority stop you
+7. Build consensus across the web
+8. Track where competitors are being recommended
+9. Think beyond rankings
+
+---
+
+POST 5:
+
+GEO, AEO, AIO, LLMO… LMAO.
+
+Every month there's a new acronym, a new "discipline," a new agency charging a premium to do… mostly SEO.
+
+Here's the honest take nobody selling AEO services wants you to hear:
+
+1. 90% of "AEO" is just SEO done well
+2. llms.txt files have zero measurable impact
+3. .md pages aren't being fetched by anyone
+4. Schema markup isn't a magic AEO lever
+
+The 10% that actually matters?
+Earned mentions + ranking in Google.
+

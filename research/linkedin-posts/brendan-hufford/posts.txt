@@ -1,0 +1,218 @@
+Author: Brendan Hufford
+LinkedIn: https://www.linkedin.com/in/brendanhufford/
+Collected: 2026-06-27
+
+---
+
+POST 1:
+
+Breaking: Cloudflare and beehiiv just announced AI Crawl Controls for creators and I genuinely don't know how to feel about this.
+
+On one hand, I've built my entire career on discovery.
+
+Getting SaaS brands found.
+
+Making sure the right people see their work in the right places at the right time.
+
+These platforms are how brands get bought.
+
+On the other hand, I get it.
+
+For a lot of writers, publishers and creators, your archive is valuable.
+
+If AI companies want to train on your original thinking, maybe you should get paid.
+
+But here's where I get stuck:
+
+The payouts.
+
+Cloudflare talks about a Spotify model for creators.
+
+But music and writing aren't the same thing.
+
+Noah Kahan gets 31M monthly listeners. I've listened to his new album (at least) 50 times in between Bad Bunny, yacht rock and my 2006 warped tour playlist.
+
+(don't judge)
+
+But an article gets scraped once and summarized forever.
+
+The economics don't translate cleanly, especially when we're hoping from payouts from companies that lose 21B per year.
+
+And yet....
+
+OpenAI doesn't want the 27th copycat blog about what happened in politics today. Their value to users is surfacing original thinking. That's where creators actually have leverage.
+
+So maybe this is less about blocking AI crawlers today and more about signaling that your content has future licensing value.
+
+I'm not sure if the payouts will ever be worth it, especially for tech companies.
+
+Or if every website should have push-button controls to block ai crawlers.
+
+But I'm watching this closely.
+
+⚡️
+
+PS - What's your take? Discovery or protection?
+
+---
+
+POST 2:
+
+One of the smartest AI people out there never actually talks about AI.
+
+His name is Sam.
+
+You might have heard of him.
+
+He sold his newsletter to Hubspot.
+
+Hosts a top 1% podcast.
+
+And he’s taught me more about how I’m going to absolutely dominate this whole “age of AI” than all the AI influencers on this resume app.
+
+Sam is a thief.
+
+He’s been methodical about it for 20 years:
+
+- Stole the WSJ "tale of two men" ad for his $300/yr newsletter.
+- Stole British racing green straight from old Porsche and Rolex ads and built his community's entire visual identity around it.
+
+Because stealing is the first part of what’s gonna save you and me from the AI slopageddon happening.
+
+Wait, Hufford, we're gonna out-steal AI?
+
+Not exactly.
+
+I call it the 4D framework and it's honestly the answer to the whole "AI is coming for your job" panic.
+
+1. Decide what you actually want to say.
+2. Duplicate the people already saying it well. Aka steal like Sam.
+3. Decode the rules underneath why it works.
+4. Defy the rules
+
+You get it, but here’s what you’re gonna miss.
+
+You’re gonna F up number 2 and duplicate stuff from your own industry.
+
+You gotta go elsewhere.
+
+Sam studies:
+
+- Menswear / workwear
+- Luxury brands
+- Thrasher magazine
+- Vintage ads
+
+I study:
+
+- Architecture
+- Red Rising books
+- Warhammer
+- Fitness creators
+- early 2000s streetwear
+
+Everyone in your industry is pulling from the same five sources.
+
+Sam and I are looting from places nobody else is looking for the last two decades.
+
+⚡️
+
+PS - If you've been waiting for permission to rip off a 1962 Rolex ad for your SaaS brand, consider this your sign. And also maybe get some help
+
+---
+
+POST 3:
+
+we just wrapped a 3 month AEO-optimization sprint with Brendan Hufford + AirOps. SEO traffic is up-and-to-the-right. LLM traffic comes in waves. but IF I WERE A BETTING GAL I'd say that the real success indicator won't come to light for another 6-12 months...
+
+if people are truly using LLMs to research like we think they are in the buying cycle, then they're not only researching our product. they're actually being told by their LLMs what product is best for their unique use case.
+
+the more we use our LLM of choice? the better it knows us. and, in turn, the more we trust it.
+
+so if we're showing up well in LLMs,
+
+and those trusted LLMs are recommending our product,
+
+and our buyers are trusting their LLMs more...
+
+then our sales cycles are going to be shorter. because the decisions will be much closer to made before they even reach out to us to see the product.
+
+next step for us (and our Growth Sprints + AirOps dream team)?
+
+-making sure our customer proof is showing up and being indexed, so trust is being built from the moment we show up
+-making sure we're set up to measure the sales cycle impact from those LLM-sourced deals
+
+out here in the wild west together 🤠
+
+---
+
+POST 4:
+
+After 100s of hours with AI, I'm realizing Claude, ChatGPT, Perplexity... they're all worthless until you do these 4 things:
+
+You know the ability to pick between three headlines and know which one will land?
+
+How to sense when your marketing is technically correct but nobody's going to care?
+
+It's called TASTE.
+
+Good news: taste is something you can learn (and get good at).
+
+Sam Parr described it recently and I put it into a framework so I can remember it.
+
+I call it the 4D framework and it's honestly the answer to the whole "AI is coming for your job" panic.
+
+1. Decide what you actually want to say.
+2. Duplicate the people already saying it well. Blindly. Shamelessly.
+3. Decode the rules underneath why it works.
+4. Defy the rules
+
+Whether you’re studying Apple or Dr. Dre, it’s the same pattern.
+
+People decided what they wanted to say, studied what was already out there, figured out why it worked and then decided what rules to break.
+
+AI can match patterns. It can't decide which pattern to break.
+
+That's where YOU live, my friend. That's where the value lives.
+
+If you're spending all your time building workflows to remove yourself from the process, you might be automating the wrong part.
+
+And when everyone's letting AI do the thinking, we’re gonna be the ones making stuff worth caring about.
+
+PS - I could automate my client "3S" interviews. I like doing them. I catch things. Ideas hit me mid-conversation. Not everything that can be automated should be.
+
+---
+
+POST 5:
+
+Cursor became the fastest B2B software company to hit $1B ARR - then tripled it. 3 things they didn't do 👇
+
+1. No ads.
+2. No outbound.
+3. No content team.
+
+I spent the last few weeks diving into 18+ sources:
+
+- 36% free-to-paid conversion (industry average is 3-5%)
+- 64% of Fortune 500 companies now using it
+- 3,000+ customers paying $100K+
+- They hired their first Head of Revenue at $2B ARR
+
+The question every SaaS marketer should be asking:
+
+"Why does this work and can we steal it?"
+
+There are 10 distinct acquisition channels in this story, and at least 4 of them contain principles you can apply right now.
+
+The full breakdown drops this week for Growing Up readers.
+
+15 pages. 10 channels. 18+ sources. Zero fluff.
+
+I'm not sharing it anywhere else.
+
+⚡️
+
+PS - But I want to know: who should I do next?
+
+Lovable? Midjourney? Figma? Ramp? Canva?
+
